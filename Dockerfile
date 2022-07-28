@@ -1,1 +1,1 @@
-docker.io/istio/examples-bookinfo-ratings-v1:1.16.2
+From docker.io/istio/examples-bookinfo-ratings-v1:1.16.2
